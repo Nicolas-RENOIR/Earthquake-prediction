@@ -1,2 +1,1 @@
-# EarthquakePrediction
-Predicted earthquakes by analyzing trends and connections in a dataset of last year's earthquake records 🌍
+The final project for my 'Data Science & AI' class involved predicting earthquakes by identifying trends, examining phenomena, and establishing relevant connections. We used a dataset containing records of earthquakes from the previous year. Our task was to test various artificial intelligence models to reliably forecast seismic events.
